@@ -1,10 +1,10 @@
 /Users/oscarmendoza/NetBeansProjects/sincronizacion2024/src/main/java/views/dashboard.java
 /Users/oscarmendoza/NetBeansProjects/sincronizacion2024/src/main/java/views/infoSincronizacion.java
-/Users/oscarmendoza/NetBeansProjects/sincronizacion2024/src/main/java/com/mycompany/sincronizacion2024/procesos.java
-/Users/oscarmendoza/NetBeansProjects/sincronizacion2024/src/main/java/com/mycompany/sincronizacion2024/carga_inicial.java
 /Users/oscarmendoza/NetBeansProjects/sincronizacion2024/src/main/java/com/mycompany/sincronizacion2024/ventanaInicio.java
-/Users/oscarmendoza/NetBeansProjects/sincronizacion2024/src/main/java/com/mycompany/sincronizacion2024/tickets.java
 /Users/oscarmendoza/NetBeansProjects/sincronizacion2024/src/main/java/com/mycompany/sincronizacion2024/Sincronizacion2024.java
 /Users/oscarmendoza/NetBeansProjects/sincronizacion2024/src/main/java/com/mycompany/sincronizacion2024/formularios/infoSinccronizacion.java
 /Users/oscarmendoza/NetBeansProjects/sincronizacion2024/src/main/java/com/mycompany/sincronizacion2024/main.java
-/Users/oscarmendoza/NetBeansProjects/sincronizacion2024/src/main/java/com/mycompany/sincronizacion2024/conexion_doble.java
+/Users/oscarmendoza/NetBeansProjects/sincronizacion2024/src/main/java/clases/conexion_doble.java
+/Users/oscarmendoza/NetBeansProjects/sincronizacion2024/src/main/java/clases/carga_inicial.java
+/Users/oscarmendoza/NetBeansProjects/sincronizacion2024/src/main/java/clases/procesos.java
+/Users/oscarmendoza/NetBeansProjects/sincronizacion2024/src/main/java/clases/tickets.java

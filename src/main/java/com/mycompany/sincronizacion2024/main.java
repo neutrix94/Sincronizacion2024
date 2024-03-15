@@ -1,5 +1,6 @@
 package com.mycompany.sincronizacion2024;
 
+import clases.carga_inicial;
 import java.awt.Component;
 import java.io.File;
 import java.io.FileNotFoundException;

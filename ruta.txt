@@ -1,0 +1,1 @@
+/Applications/XAMPP/htdocs/desarrollo_cobros_e_impresion/conexion_inicial.txt

@@ -1,5 +1,6 @@
-package com.mycompany.sincronizacion2024;
+package clases;
 
+import com.mycompany.sincronizacion2024.main;
 import java.awt.Component;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

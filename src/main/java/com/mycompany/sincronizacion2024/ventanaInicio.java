@@ -1,5 +1,7 @@
 package com.mycompany.sincronizacion2024;
 
+import clases.conexion_doble;
+import clases.procesos;
 import java.awt.Color;
 import java.awt.Component;
 import java.awt.EventQueue;

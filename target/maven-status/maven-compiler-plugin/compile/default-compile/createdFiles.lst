@@ -5,8 +5,6 @@ com/mycompany/sincronizacion2024/ventanaInicio$2.class
 formularios/infoSinccronizacion$24.class
 formularios/infoSinccronizacion$6.class
 views/infoSincronizacion$34.class
-com/mycompany/sincronizacion2024/tickets.class
-com/mycompany/sincronizacion2024/procesos.class
 views/infoSincronizacion$3.class
 views/dashboard.class
 formularios/infoSinccronizacion$17.class
@@ -27,13 +25,13 @@ com/mycompany/sincronizacion2024/ventanaInicio$3.class
 views/infoSincronizacion$35.class
 formularios/infoSinccronizacion$35.class
 formularios/infoSinccronizacion$15.class
-com/mycompany/sincronizacion2024/conexion_doble.class
 views/infoSincronizacion$15.class
 views/infoSincronizacion$31.class
 formularios/infoSinccronizacion$31.class
 views/infoSincronizacion$7.class
 formularios/infoSinccronizacion.class
 views/infoSincronizacion$11.class
+clases/tickets.class
 views/infoSincronizacion$26.class
 com/mycompany/sincronizacion2024/main.class
 views/infoSincronizacion$20.class
@@ -42,7 +40,6 @@ views/infoSincronizacion$38.class
 formularios/infoSinccronizacion$3.class
 views/infoSincronizacion$18.class
 views/infoSincronizacion$23.class
-com/mycompany/sincronizacion2024/carga_inicial.class
 formularios/infoSinccronizacion$38.class
 formularios/infoSinccronizacion$18.class
 views/infoSincronizacion$39.class
@@ -69,6 +66,7 @@ com/mycompany/sincronizacion2024/ventanaInicio$4.class
 formularios/infoSinccronizacion$33.class
 views/infoSincronizacion.class
 views/infoSincronizacion$2.class
+clases/procesos.class
 com/mycompany/sincronizacion2024/ventanaInicio$1.class
 formularios/infoSinccronizacion$2.class
 formularios/infoSinccronizacion$25.class
@@ -81,7 +79,9 @@ com/mycompany/sincronizacion2024/ventanaInicio$5.class
 formularios/infoSinccronizacion$36.class
 views/infoSincronizacion$5.class
 views/infoSincronizacion$30.class
+clases/carga_inicial.class
 views/infoSincronizacion$36.class
+clases/conexion_doble.class
 formularios/infoSinccronizacion$10.class
 views/infoSincronizacion$10.class
 formularios/infoSinccronizacion$28.class

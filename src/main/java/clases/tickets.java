@@ -1,4 +1,4 @@
-package com.mycompany.sincronizacion2024;
+package clases;
 
 import java.io.File;
 import java.io.FileOutputStream;

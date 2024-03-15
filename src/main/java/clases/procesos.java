@@ -1,4 +1,4 @@
-package com.mycompany.sincronizacion2024;
+package clases;
 
 import formularios.infoSinccronizacion;
 import java.awt.Color;
